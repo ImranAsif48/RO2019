@@ -1,7 +1,7 @@
 numpy==1.16.*
 matplotlib==3.*
 seaborn==0.9.0
-statistics==3.4
+statistics==3.7.4
 SPARQLWrapper==1.8.4
 csv==1.0
 pandas
